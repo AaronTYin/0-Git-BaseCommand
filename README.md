@@ -7,6 +7,8 @@
 >git push origin master
 ```
 
+![流程](https://github.com/AaronTYin/Git-useful-command/blob/master/%E6%B5%81%E7%A8%8B.png?raw=true)
+![速查表](https://github.com/AaronTYin/Git-useful-command/blob/master/%E9%80%9F%E6%9F%A5%E8%A1%A8.png?raw=true)
 
 ## 几个专用名词的译名如下。
 ```
@@ -251,6 +253,6 @@ git status
 ```
 
 >作者：willcoder
-链接：https://www.jianshu.com/p/46ffff059092
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+>链接：https://www.jianshu.com/p/46ffff059092
+>来源：简书
+>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
