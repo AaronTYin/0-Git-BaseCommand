@@ -7,8 +7,8 @@
 >git push origin master
 ```
 
-![流程](https://github.com/AaronTYin/Git-useful-command/blob/master/%E6%B5%81%E7%A8%8B.png?raw=true)
-![速查表](https://github.com/AaronTYin/Git-useful-command/blob/master/%E9%80%9F%E6%9F%A5%E8%A1%A8.png?raw=true)
+![流程](https://github.com/AaronTYin/Git-useful-command/blob/master/%E6%B5%81%E7%A8%8B.png)
+![速查表](https://github.com/AaronTYin/Git-useful-command/blob/master/%E9%80%9F%E6%9F%A5%E8%A1%A8.png)
 
 ## 几个专用名词的译名如下。
 ```
