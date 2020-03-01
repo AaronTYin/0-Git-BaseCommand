@@ -36,6 +36,8 @@ $ git config -e [--global]
 # 设置提交代码时的用户信息
 $ git config [--global] user.name "[name]"
 $ git config [--global] user.email "[email address]”
+# 记住密码
+$ git config --global credential.helper store
 ```
 ```
 git 修改当前的project的用户名的命令为：
